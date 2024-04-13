@@ -1,11 +1,9 @@
-Tokyo Review:
-- Pros: 
-  -- Fantastic culture.
-- Cons:
-  -- Crowded and rainy.
+Reviews Page
 
-Kuala Lumpur:
-- Pros: 
-  -- Great Food.
-- Cons:
-  -- A lot of insects.
+- Tokyo:
+	-- Pros: Rich culture.
+  -- Cons: Very crowded.
+
+- Kuala Lumpur:
+  -- Pros: Great food variety.
+  -- Cons: Too many insects.
